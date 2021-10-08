@@ -1,1 +1,5 @@
-# MLB_jet_lag_analysis
+# MLB jet lag analysis
+
+## Description
+
+## Viewing the results
