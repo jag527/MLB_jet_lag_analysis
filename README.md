@@ -1,5 +1,8 @@
 # MLB jet lag analysis
 
+## PowerPoint Presentation
+To view the presentation where I present my full methodolgy and results/analysis, please view MLB_jet_lag.pdf.
+
 ## Overview
 The purpose of this project was to analyze a large data set of Major League Baseball game, seeking to find (if any) a relationship between jet lag due to teams' travel schedules and their performances in games.
 
@@ -13,5 +16,3 @@ I discovered a statistically significant increase in runs allowed per game when 
 
 I discovered a statistically significant decrease in runs scored per game when a team experienced WESTWARD jet lag as opposed to EASTWARD jet lag, with a p value of 0.0006.
 
-## PowerPoint Presentation
-To view the presentation where I present my full methodolgy and results/analysis, please view MLB_jet_lag.pptx.
